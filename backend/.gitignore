@@ -1,0 +1,44 @@
+# =========================
+# Build outputs
+# =========================
+**/bin/
+**/obj/
+ 
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+ 
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+ 
+# =========================
+# ASP.NET config (local only)
+# =========================
+appsettings.Development.json
+ 
+# =========================
+# Test results
+# =========================
+TestResults/
+ 
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+ 
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
